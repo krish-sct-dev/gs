@@ -1,6 +1,17 @@
-# GS
+# Just Bulidtech Construction
 
-This repository contains the **Just Bulidtech Construction** website project.
+Next.js website for **Just Bulidtech Construction**.
 
-- App: `bulidtech/` (Next.js)
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
 
